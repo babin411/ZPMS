@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1531407255 source:e:\prezpms\animal.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<windows.h>
+	<iomanip>
+	<string.h>
+	"staff.h"
+	"animal.h"
+
+1531275318 e:\prezpms\staff.h
+
+1531291293 e:\prezpms\animal.h
+
+1531237184 source:e:\prezpms\staff.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<windows.h>
+	<string.h>
+	<iomanip>
+	"staff.h"
+	"animal.h"
+
+1531410335 source:e:\prezpms\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<windows.h>
+	<iomanip>
+	<string.h>
+	"staff.h"
+	"animal.h"
+
+1531398349 source:e:\prezpms\tickets.cpp
+	"tickets.h"
+
+1531398348 e:\prezpms\tickets.h
+
